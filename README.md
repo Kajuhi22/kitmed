@@ -1,3 +1,13 @@
+# Challenges Faced:
+  Understanding complex code.
+  checking the data.
+  reviewing its usage.
+  downloading sql extension
+  Handling data
+  Getting required jdk
+  setting correct environment
+  
+
 # Medical Center Management System
 A web based Online Medical Center Management System (for SUST Medical Center).
 
